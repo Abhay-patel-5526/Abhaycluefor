@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Abhay (cluefor)
+- 👋 Hi, I’m @Abhay
 - 👀 I’m interested in coading 
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate and work for game development 
+- 🌱 I’m currently learning python
+- 💞️ I’m looking for job related to data management, data science, software development 
 - 📫 To reach me contact me on Instagram @abhay_patel_5526
 <!---
 Abhaycluefor/Abhaycluefor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
